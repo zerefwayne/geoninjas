@@ -1,6 +1,8 @@
-# geoninjas
+# Geo Ninjas
 
 > A Vue.js project
+
+![Home Page](https://raw.githubusercontent.com/zerefwayne/GeoNinjas/master/screenshot.png)
 
 ## Build Setup
 
